@@ -52,7 +52,8 @@
   <li>Задача №1 API тестирование </li>
 </ol>
 
-<p>Как решала(-а): краткое описание решения (автореферат)<p>
+<p>Как решала(-а): <p>
+Работа велась в программе Postman. Были применены Get и Post запросы.
 
 >  <a href="https://www.postman.com/bold-crater-130965/workspace/2/collection/26711522-a501821c-33d8-4a54-ac63-ec1fe78ac5d2?action=share&creator=26711522">Ссылка на проект</a>
  
