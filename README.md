@@ -13,7 +13,7 @@
 
 
 
-## Проекты
+### Проекты
 
 <p> Проект 1: тест веб-приложения для учителей от Skyeng</p>
 <p>Что нужно было сделать:<p>
@@ -31,8 +31,6 @@
 
 > <a href="https://lobanova777.atlassian.net/wiki/spaces/Decomposit/pages/2228238/1+2">Ссылка на проект</a>
   
-> <p> логин: olga.lobanova.com@gmail.com </p>
-> <p> пароль: Iaotli4niI_teStirovshik0112$ </p>
  
  <p>Выводы (итоги):<p>
 <ol>
