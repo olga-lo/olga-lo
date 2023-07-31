@@ -7,8 +7,8 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``,  ``Python``.
+``Декомпозиция``, ``Ручное тестирование``, ``Функциональное тестирование``, ``Тест-дизайн``, ``Регрессионное тестирование``, ``Smoke-tests``, ``UI/UX``, ``Bug Reporting``, ``Test cas``, ``Check lists``, ``Miro``, ``Atlassian Confluence``, ``Atlassian Jira``,``QaseIO``,``SQL``, ``PostgresSQL``, ``Postman``, ``Swagger``, ``Trello``, <br>
+``SoapUI``, ``Jmeter``, ``Charles``, ``Git``, ``Chrome DevTools``,  ``Python``.
 
 
 
@@ -29,51 +29,29 @@ https://docs.google.com/document/d/1gPtTNZV4EoHsYRV88AGUUlRANion4dcXaLekyYOQPSI/
 </ol>
 
 ## <p> Как решала: <p>
-## <p> 1. Декомпозция системы <p>
-https://miro.com/app/board/uXjVPln5wZk=/?share_link_id=695465932044
-## <p> 1. Составление Тест-плана <p>
+## <p> 1. Декомпозция системы: <p>
+ https://miro.com/app/board/uXjVPln5wZk=/?share_link_id=695465932044
+## <p> 2. Составление Тест-плана <p>
+<p> Протестировала требования, сотавила тест-план:<p>
+<p> https://docs.google.com/document/d/1Y60lIE2WK_eo299p00MNl2DQlucUIo2r7pGb0WS6A-k/edit?usp=sharing <p>
 
+## <p> 3. Тестирорвание через UI <p>
 
+<p> Написала тесты для дымового и приёмочного тестирования, составила чек-листы для регресс тестов и функционального тестирования: <p>
+https://docs.google.com/document/d/12Rm5mlNlqWZIlDYLimHRxVVxAbitYi2Tj0VfjF7gci4/edit?usp=sharing
 
-> <a href="https://lobanova777.atlassian.net/wiki/spaces/Decomposit/pages/2228238/1+2">Ссылка на проект</a>
-  
+## <p> 4. Тестирование API <p>
+<p> Написала тест кейсы, по ним составила запросы в Postman: <p>
+https://docs.google.com/document/d/1E-2q_xgeRO2g7FFd-U-kaDdEkO8wehKdrW6x-FvPAfc/edit?usp=sharing
+
+## <p> Итоги проделанной работы <p>
+## <p> 1. Тестирование через UI: <p>
+https://docs.google.com/document/d/1DIOVltUf1YZSyiTnUKZOBVN35fvgVxAMPYjF_DXNwTg/edit?usp=sharing
+## <p> 2. Тестирование через API: <p> 
+https://docs.google.com/document/d/1s6riqNJ3860lPEQCUgpJxjVThYr4eXNveImU9BMyuKY/edit?usp=sharing
  
- <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1 
-По результатам проверки я считаю, что продукт не готов к релизу, так как есть противоречащее требование.  
-Блокирующих багов обнаружено не было, заявленные стейкхолдерами функции работают.
-Однако был обнаружен один баг, который может задержать выпуск продукта в релиз, а именно баг: "Поле "День" в форме редактирования личного события разрешается к редактированию".</li>
+
   
-  <li>Итог №2 
-Было обнаружено, что допускается к редактированию поле “День” личного события, хотя в требованиях указано, что можно менять только время события. Данное требование нужно уточнить у продакт менеджера. Если он не критичное, то продукт можно выпускать к релизу.
-По результатам проверок приемочного тестирования баги не обнаружены.
-  </li>
-</ol>
-
-
-<br> 
-
-## <p> Проект 2: тест кабинета учителя в приложении Skyeng</p>
-<p>Что нужно было сделать:<p>
-<ol>
-  <li>Задача №1 API тестирование </li>
-</ol>
-
-<p>Как решала: <p>
-Работа велась в программе Postman. Были применены Get и Post запросы.
-
->  <a href="https://www.postman.com/bold-crater-130965/workspace/2/collection/26711522-a501821c-33d8-4a54-ac63-ec1fe78ac5d2?action=share&creator=26711522">Ссылка на проект</a>
- 
- <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1 благодаря API  были обнаружены такие баги:
-1) Согласно ТЗ и интерфейсу приложения, при создании ЛС можно выбрать только 4 цвета, а при API запросе можно выбрать больше.
-Баг "Выбирается другой цвет при создании личного события недоступный в UI"
-2) Также на те тест-кейсы, которые невозможно проверить через API приходит код ответа 200 ОК, что не должно быть так
-Баг "Приходит статус код ответа 200 ОК на тест-кейсы с невалидными данными"
- </li>
-</ol>
 
 
 
