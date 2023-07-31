@@ -17,7 +17,7 @@
 
 ## <p> Проект 1. Тестирование нового функционала (добавление личных событий) в веб-приложении для учителей от Skyeng</p>
 
-## <p> Требования к новому функционалу:</p>
+## <p> Требования к новому функционалу:</p> 
 https://docs.google.com/document/d/1gPtTNZV4EoHsYRV88AGUUlRANion4dcXaLekyYOQPSI/edit?usp=sharing
 
 ## <p> Что нужно было сделать:<p>
@@ -49,9 +49,4 @@ https://docs.google.com/document/d/1E-2q_xgeRO2g7FFd-U-kaDdEkO8wehKdrW6x-FvPAfc/
 https://docs.google.com/document/d/1DIOVltUf1YZSyiTnUKZOBVN35fvgVxAMPYjF_DXNwTg/edit?usp=sharing
 ## <p> 2. Тестирование через API: <p> 
 https://docs.google.com/document/d/1s6riqNJ3860lPEQCUgpJxjVThYr4eXNveImU9BMyuKY/edit?usp=sharing
- 
-
-  
-
-
 
