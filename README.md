@@ -3,7 +3,7 @@
 ## Обо мне 
 
 Привет! Меня зовут Ольга, я QA тестировщик. <br>
-В моем репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+В моем репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения, практики и тестовых заданий.
 <br>
 
 ## Навыки и технологии
@@ -49,4 +49,3 @@ https://docs.google.com/document/d/1E-2q_xgeRO2g7FFd-U-kaDdEkO8wehKdrW6x-FvPAfc/
 https://docs.google.com/document/d/1DIOVltUf1YZSyiTnUKZOBVN35fvgVxAMPYjF_DXNwTg/edit?usp=sharing
 ## <p> 2. Тестирование через API: <p> 
 https://docs.google.com/document/d/1s6riqNJ3860lPEQCUgpJxjVThYr4eXNveImU9BMyuKY/edit?usp=sharing
-
